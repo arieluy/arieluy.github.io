@@ -1,0 +1,13 @@
+main:
+  - title: "Projects"
+    url: /projects/
+  - title: "Academics"
+    url: /academics/
+  - title: "Art"
+    url: /art/
+  - title: "Lighting Design"
+    url: /lighting/
+  - title: "Puzzles"
+    url: /puzzles/
+  - title: "Resume"
+    url: /resume/
