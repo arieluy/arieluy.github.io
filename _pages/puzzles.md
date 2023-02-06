@@ -1,6 +1,6 @@
 ---
 permalink: /puzzles/
-title: "Puzzlehunts"
+title: "Puzzles"
 ---
 
 I participate in the [MIT Mystery Hunt](http://puzzles.mit.edu/){:target="_blank"} and various other puzzlehunts, as a solver and writer. Here's a list of puzzles I've written.
