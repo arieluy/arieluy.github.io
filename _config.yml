@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ariel Uy"
 description              : "Personal website for Ariel Uy."
-url                      : "https://arieluy.github.io"
+url                      : "https://www.arieluy.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "arieluy/arieluy.github.io" 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
