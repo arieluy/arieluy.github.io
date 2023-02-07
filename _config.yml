@@ -142,12 +142,14 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
-  # _pages
   - scope:
-      path: "_pages"
-      type: pages
+      path: ""
     values:
       layout: single
       author_profile: true

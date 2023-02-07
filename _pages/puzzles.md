@@ -3,7 +3,7 @@ permalink: /puzzles/
 title: "Puzzles"
 ---
 
-I participate in the [MIT Mystery Hunt](http://puzzles.mit.edu/){:target="_blank"} and various other puzzlehunts, as a solver and writer. Here's a list of puzzles I've written.
+I participate in the [MIT Mystery Hunt](http://puzzles.mit.edu/){:target="_blank"} and various other puzzlehunts, as a solver and writer on [teammate](https://www.puzzles.wiki/wiki/Teammate){:target="_blank"}. Here's a list of puzzles I've written.
 
 For MIT MH 2023, I was also an artist for the [Wyrmhole](https://puzzlefactory.place/wyrmhole){:target="_blank"} round.
 

@@ -3,10 +3,10 @@ main:
     url: /projects/
   - title: "Academics"
     url: /academics/
-  - title: "Art"
-    url: /art/
   - title: "Lighting Design"
     url: /lighting/
+  - title: "Art"
+    url: /art/
   - title: "Puzzles"
     url: /puzzles/
   - title: "Resume"

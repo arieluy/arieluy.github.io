@@ -1,14 +1,14 @@
 ---
-title: Lighting Design
+title: "Lighting Design"
 permalink: /lighting/
 smallpools:
   - url: /assets/images/lighting/smallpools1.png
     image_path: /assets/images/lighting/smallpools1.png
   - url: /assets/images/lighting/smallpools2.jpg
     image_path: /assets/images/lighting/smallpools2.jpg
-  - url: /assets/images/lighting/gnash.jpeg
-    image_path: /assets/images/lighting/gnash.jpeg
-  - url: /assets/images/lighting/smallpools2.jpg
+  - url: /assets/images/lighting/gnash.jpg
+    image_path: /assets/images/lighting/gnash.jpg
+  - url: /assets/images/lighting/smallpools3.jpg
     image_path: /assets/images/lighting/smallpools3.jpg
 
 dram:
@@ -26,31 +26,31 @@ elephante:
     image_path: /assets/images/lighting/elephante2.jpg
 
 rent:
-  - url: /assets/images/lighting/rent1.JPG
-    image_path: /assets/images/lighting/rent1.JPG
-  - url: /assets/images/lighting/rent2.JPG
-    image_path: /assets/images/lighting/rent2.JPG
-  - url: /assets/images/lighting/rent3.JPG
-    image_path: /assets/images/lighting/rent3.JPG
-  - url: /assets/images/lighting/rent4.JPG
-    image_path: /assets/images/lighting/rent4.JPG
+  - url: /assets/images/lighting/rent1.jpg
+    image_path: /assets/images/lighting/rent1.jpg
+  - url: /assets/images/lighting/rent2.jpg
+    image_path: /assets/images/lighting/rent2.jpg
+  - url: /assets/images/lighting/rent3.jpg
+    image_path: /assets/images/lighting/rent3.jpg
+  - url: /assets/images/lighting/rent4.jpg
+    image_path: /assets/images/lighting/rent4.jpg
 
 summerland:
-  - url: /assets/images/lighting/summerland1.jpeg
-    image_path: /assets/images/lighting/summerland1.jpeg
-  - url: /assets/images/lighting/summerland2.jpeg
-    image_path: /assets/images/lighting/summerland2.jpeg
-  - url: /assets/images/lighting/summerland3.jpeg
-    image_path: /assets/images/lighting/summerland3.jpeg
+  - url: /assets/images/lighting/summerland1.jpg
+    image_path: /assets/images/lighting/summerland1.jpg
+  - url: /assets/images/lighting/summerland2.jpg
+    image_path: /assets/images/lighting/summerland2.jpg
+  - url: /assets/images/lighting/summerland3.jpg
+    image_path: /assets/images/lighting/summerland3.jpg
 ---
 
 ### Concerts
 
-{% include gallery id="smallpools" layout="half" caption="Smallpools and Gnash, October 2019" %}
+{% include gallery id="smallpools" layout="half" caption="Smallpools and Gnash, AB Tech, October 2019" %}
 
-{% include gallery id="dram" caption="D.R.A.M. w/ Vanic, April 2019" %}
+{% include gallery id="dram" caption="D.R.A.M. w/ Vanic, AB Tech, April 2019" %}
 
-{% include gallery id="elephante" layout="half" caption="Elephante, September 2018" %}
+{% include gallery id="elephante" layout="half" caption="Elephante, AB Tech, September 2018" %}
 
 ### Theatre
 
