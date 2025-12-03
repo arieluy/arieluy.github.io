@@ -64,6 +64,13 @@ bridge:
 
 {% include gallery id="summerland" caption="The Summerland Project, Scotch'n'Soda Theatre, December 2019. Directed by Jacqui Fashimpaur. Photos by Remy Goldberg." %}
 
+### Glowstringing
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6ZfEytdCXKQ?si=wn6ijj_tVo1G2uTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<figcaption>Co-choreographed and performed in glowstringing dance in Dancers' Symposium 2019</figcaption>
+</figure>
+
 ### Architectural
 
 {% include gallery id="bridge" layout="half" caption="Lighting the Pausch Bridge with mathematical themes, such as the Sieve of Eratosthenes and the digits of pi" %}
