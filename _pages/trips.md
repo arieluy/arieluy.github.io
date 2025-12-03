@@ -1,6 +1,6 @@
 ---
 title: "Trip Reports"
-permalink: /trip-reports/
+permalink: /trips/
 layout: collection
 collection: trips
 entries_layout: grid 
