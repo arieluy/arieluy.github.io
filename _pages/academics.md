@@ -5,7 +5,7 @@ title: "Academics"
 ### Research
 
 - **The first digit of the discriminant of Eisenstein polynomials as an invariant of totally ramified
-extensions of p-adic fields.** Published in [*Involve, a Journal of Mathematics*](https://msp.org/involve/2020/13-5/p02.xhtml){:target="_blank"}. \[[pdf](https://mathstats.uncg.edu/sites/pauli/publications/awtrey-gaura-pauli-rudzinski-uy-zinzer_2019_discriminants-of-eisenstein-polynomials.pdf){:target="_blank"}\]
+extensions of *p*-adic fields.** Published in [*Involve, a Journal of Mathematics*](https://msp.org/involve/2020/13-5/p02.xhtml){:target="_blank"}. \[[pdf](/assets/pdfs/Discriminants_Paper.pdf){:target="_blank"}\]
 
 - **Parallel Fast Tetrahedral Mesh Generation** \[[pdf](https://arieluy.github.io/fTetWild/ParallelFinalReport.pdf){:target="_blank"}\]
 
