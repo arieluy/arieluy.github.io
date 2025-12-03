@@ -3,6 +3,8 @@ main:
     url: /projects/
   - title: "Academics"
     url: /academics/
+  - title: "Trip Reports"
+    url: /trip-reports/
   - title: "Lighting Design"
     url: /lighting/
   - title: "Art"

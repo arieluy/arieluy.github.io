@@ -146,6 +146,8 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  trips:
+    output: true
 
 defaults:
   - scope:

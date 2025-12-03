@@ -42,6 +42,12 @@ summerland:
     image_path: /assets/images/lighting/summerland2.jpg
   - url: /assets/images/lighting/summerland3.jpg
     image_path: /assets/images/lighting/summerland3.jpg
+
+bridge:
+  - url: /assets/images/lighting/primes.jpg
+    image_path: /assets/images/lighting/primes.jpg
+  - url: /assets/images/lighting/pi.jpg
+    image_path: /assets/images/lighting/pi.jpg
 ---
 
 ### Concerts
@@ -57,3 +63,7 @@ summerland:
 {% include gallery id="rent" layout="half" caption="RENT, Scotch'n'Soda Theatre, April 2022. Directed by Caroline Holmes and Katia Peppas. Photos by Soomin Kong." %}
 
 {% include gallery id="summerland" caption="The Summerland Project, Scotch'n'Soda Theatre, December 2019. Directed by Jacqui Fashimpaur. Photos by Remy Goldberg." %}
+
+### Architectural
+
+{% include gallery id="bridge" layout="half" caption="Lighting the Pausch Bridge with mathematical themes, such as the Sieve of Eratosthenes and the digits of pi" %}
